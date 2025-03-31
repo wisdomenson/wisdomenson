@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @wisdomenson
-- 👀 I’m interested in web development, trading, coding, business
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on remote jobs
+- 👋 Hi, I’m Wisdom Menson
+- 👀 I’m interested in web development, trading and data analytics. 
+- 💞️ I’m looking to collaborate and work.
 - 📫 How to reach me wisdomenson1@gmail.com
 
 <!---
