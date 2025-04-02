@@ -4,7 +4,8 @@ I thrive on solving complex problems, automating workflows, and visualizing data
 
 Let’s connect and explore how data can drive smarter business outcomes!
 
-How to reach me wisdomenson1@gmail.com
+You can reach me on <a href="https://www.linkedin.com/in/wisdom-menson-55a1b4225/" target="_blank">LinkedIn</a>
+
 
 <!---
 wisdomenson/wisdomenson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
